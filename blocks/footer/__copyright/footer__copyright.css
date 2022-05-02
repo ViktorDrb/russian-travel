@@ -1,14 +1,14 @@
 .footer__copyright {
 	margin: 48px 0 0;
 	font-size: 14px;
-	line-height: 1;
+	line-height: 16px;
 	font-weight: 400;
 	text-decoration: none;
-	transition: opacity 6s ease;
+	transition: opacity 0.5s ease;
 	color: #fff;
 }
 .footer__copyright:hover{
-	opacity: 3;
+	opacity: 0.8;
 }
 @media (min-width: 768px) {
 	.footer__copyright {

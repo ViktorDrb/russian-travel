@@ -14,4 +14,5 @@ _________________________________
 _________________________________
 Section Lead --> div class=lead__img есть один тег Figure, думаю есть смысл его туда поставить но есть сомнения.
 ________
+gh-pages https://viktordrb.github.io/russian-travel/index.html
 p.s. Чем дальше тем сложнее. Газуем.
