@@ -5,7 +5,7 @@
 }
 @media (max-width: 768px) {
 	.place__container {
-      padding-left: 16px;
+      padding: 0;
 	}
 }
 @media (max-width: 425px) {

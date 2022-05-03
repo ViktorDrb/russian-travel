@@ -1,6 +1,7 @@
 .cover__opacity{
 	background-image: url('../../../images/backs.jpg');
 	background-size: cover;
+	background-position: center;
 }
 .cover__opacity:before {
 	content: '';
@@ -10,9 +11,9 @@
 	right: 0;
 	bottom: 0;
 	background-color: #2a2c2f;
-	opacity: 0.5;
+	opacity: 0.3;
 	transition: opacity 1s ease;
 }
 .cover__opacity:hover:before {
-	opacity: 0.7;
+	opacity: 0.8;
 }

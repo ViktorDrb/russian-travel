@@ -1,10 +1,16 @@
 .cover {
     position: relative;
     display: flex;
-	margin: 80px auto;
+    margin: 80px auto;
 	max-width: 1184px;
 	flex-direction: column;
 	justify-content: center;
+}
+
+@media (min-width: 320px) {
+    .cover {
+        margin: 66px 0 64px;
+    }
 }
 
 @media (min-width: 768px) {

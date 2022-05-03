@@ -6,6 +6,7 @@
 	line-height: 1.09;
 	font-weight: 900;
 }
+
 @media (min-width: 768px) {
   .cover__title {
     max-width: 560px;
