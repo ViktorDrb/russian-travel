@@ -16,19 +16,20 @@
 @media (min-width: 768px) {
   .cover {
     min-height: 480px;
-    margin-top: 90px;
+    margin: 90px auto 0;
   }
 }
 
 @media (min-width: 1024px) {
-  .cover {
-    min-height: 640px;
-    margin-top: 95px;
-  }
-}
-@media (min-width: 1280px) {
-  .cover {
-    min-height: 740px;
-    padding-bottom: 0;
-  }
+    .cover {
+        min-height: 640px;
+        margin-top: 95px;
+    }
+
+    @media (min-width: 1280px) {
+        .cover {
+            min-height: 740px;
+            padding-bottom: 0;
+        }
+    }
 }
